@@ -1,0 +1,183 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+.navbar{
+	background-color: #A9A9A9;
+	padding: 1% 0;
+	font-size: 1.2em;
+	border: none;
+}
+.navbar-brand{
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a{
+	color: #D5D5D5;
+}
+#button a:hover{
+    color:white;
+}
+#logo{
+	height: 70px;
+	width: 70px;
+	padding-bottom: 10px;
+}
+
+#home{
+	background: url(../img/cover.jpg) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+.landing-text{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	color: #4B0082;
+}
+.landing-text h1{
+	font-size: 300%;
+	font-weight: 700;
+}
+.landing-text h3{
+	color: #6B8E23;
+	padding-left: 150px;
+	padding-bottom: 20px;
+}
+#about{
+	padding-top: 120px;
+	padding-bottom: 80px;
+}
+#para1{
+	padding-top: 40px;
+}
+#services{
+	padding-top: 150px;
+	padding-bottom: 300px;
+}
+#design1{
+	padding-top: 70px;
+}
+#design2{
+	padding-top: 60px;
+}
+#brief{
+	background: url(../img/blurdesk.jpg) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+#para2{
+	padding-top: 150px;
+}
+#imgbrf{
+	padding-top: 200px;
+}
+#project{
+	padding-top: 150px;
+	padding-bottom: 300px;
+}
+#pheader{
+	padding-left: 110px;
+	color: #9370DB;
+}
+#logo1{
+	height: 200px;
+	width: 200px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#logo2{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#web1{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#web2{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#flur1{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#flur2{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#apps1{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+#apps2{
+	height: 200px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 20%;
+}
+footer{
+	width: 100%;
+	background-color: #A9A9A9;
+	padding: 8% 5% 10% 5%;
+	color: #FFF;
+}
+#address{
+	text-align: left;
+}
+.fa{
+	padding: 15px;
+	font-size: 20px;
+	color: #D5D5D5;
+}
+.fa:hover{
+	color: #D5D5D5;
+	text-decoration: none;
+}
+.icon{
+	padding-top: 5%;
+	max-width: 150px;
+	max-height: 150px;
+}
